@@ -1,7 +1,15 @@
-### Hi there 👋
+### Lucas Braga
+Olá! Meu nome é Leandro | Sou estudante de Sistemas de Informação pela PUC Minas.<br/>
+
+### Alguns projetos legais ⚡ :pushpin:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasbrafer&repo=Proffy)](https://github.com/lucasbrafer/Proffy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasbrafer&repo=Eventos)](https://github.com/lucasbrafer/Eventos)
 
 <!--
-**LeandroMartins0/LeandroMartins0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lucasbrafer/lucasbrafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Top Langs](https://github.com/LeandroMartins0/springboot_2_java_11)]()
+[![ReadMe Card](https://github.com/LeandroMartins0/node_js_blogapp_express)]()
 
 Here are some ideas to get you started:
 
