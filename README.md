@@ -5,6 +5,7 @@ Olá! Meu nome é Leandro | Sou estudante de Sistemas de Informação pela PUC M
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LeandroMartins0&repo=node_js_blogapp_express)](https://github.com/LeandroMartins0/node_js_blogapp_express)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LeandroMartins0&repo=springboot_2_java_11)](https://github.com/LeandroMartins0/springboot_2_java_11)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LeandroMartins0&repo=node_js_ToDo_Agenda_Web)](https://github.com/LeandroMartins0/node_js_ToDo_Agenda_Web)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LeandroMartins0&repo=base_credit_python)](https://github.com/LeandroMartins0/base_credit_python)
 
 <!--
 **Pefil
