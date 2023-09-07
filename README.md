@@ -1,5 +1,5 @@
 ### Leandro Martins
-Olá! Meu nome é Leandro | Sou cientista de dados com formação em Sistemas de Informação pela PUC Minas<br/>
+Hi! My name is Leandro <br/>
 
 ### Principais projetos :pushpin:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LeandroMartins0&repo=node_js_blogapp_express)](https://github.com/LeandroMartins0/node_js_blogapp_express)
