@@ -1,4 +1,4 @@
-## Leandro Martins
+## Leandro Gonçalves
 
 Senior Data Engineer with strong experience in designing, building, and maintaining scalable data pipelines and analytics solutions.  
 Focused on data quality, performance, cost optimization, and reliable data architectures.
