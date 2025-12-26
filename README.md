@@ -17,7 +17,7 @@ Focused on data quality, performance, cost optimization, and reliable data archi
 Professional and business-oriented projects are published under my company organization:
 
 Lamphi Tech  
-[https://github.com/lamphitech/lamphi-lex](https://github.com/lamphitech)](https://github.com/lamphitech)
+[Lamphi Tech on GitHub](https://github.com/lamphitech)
 
 ---
 
