@@ -16,7 +16,6 @@ Focused on data quality, performance, cost optimization, and reliable data archi
 ## Company Projects
 Professional and business-oriented projects are published under my company organization:
 
-Lamphi Tech  
 [Lamphi Tech on GitHub](https://github.com/lamphitech)
 
 ---
