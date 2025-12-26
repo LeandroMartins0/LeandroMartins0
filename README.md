@@ -11,14 +11,6 @@ Focused on data quality, performance, cost optimization, and reliable data archi
 - Experience with data pipelines, ETL/ELT, and data modeling  
 - Cloud-based data platforms and analytics environments  
 - Passionate about clean, efficient, and maintainable data solutions
-
----
-
-## Selected Projects
-Some repositories that reflect my work with data processing and analysis:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LeandroMartins0&repo=base_credit_python)](https://github.com/LeandroMartins0/base_credit_python)
-
 ---
 
 ## Company Projects
